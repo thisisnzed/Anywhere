@@ -54,3 +54,6 @@ The agent is installed on the compromised devices and is responsible for executi
 ## Disclaimer
 
 It is important to note that Anywhere is a tool for malicious purposes and its use is illegal. This project is for educational and research purposes only. It is strictly prohibited to use this software to infect any devices that do not belong to you. Any unauthorized use of this software is illegal and punishable by law. You are solely responsible for any actions taken using this software and must ensure that you have the appropriate legal permissions before using it. It is recommended to use this software only on your own servers or devices.
+
+Some parts of the code are a bit old.
+
