@@ -1,2 +1,2 @@
 Manifest-Version: 1.0
-Main-Class: org.apache.commons.io.file.spi.launch.Launch
+Main-Class: org.anywhere.agent.launch.Launch
