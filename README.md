@@ -37,7 +37,7 @@ The master is a command line interface (CLI) that allows the administrator to co
 
 ### Server list
 
-![alt text](https://cdn.discordapp.com/attachments/863095969436270633/1065302074016927754/image.png)
+![alt text](https://cdn.discordapp.com/attachments/863095969436270633/1065678821602365500/image.png)
 
 ### Download
 
